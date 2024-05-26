@@ -1,0 +1,1 @@
+﻿Hello world this is a Test file with Words that Start with both Uppercase and lowercase letters. Here are some Examples: Apple, banana, Car, dog, Elephant, frog, Giraffe.
